@@ -23,7 +23,7 @@
   <!-- JQVMap -->
   <link rel="stylesheet" href="/assets/plugins/jqvmap/jqvmap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="/assets/dist/css/adminlte.min.css">
+  <!-- <link rel="stylesheet" href="/assets/dist/css/adminlte.min.css"> -->
   <!-- overlayScrollbars -->
   <link rel="stylesheet" href="/assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Daterange picker -->
@@ -64,7 +64,7 @@
         <!-- Sidebar user panel (optional) -->
         <div class="user-panel mt-3 pb-3 mb-3 d-flex">
           <div class="image">
-            <img src="<?php echo base_url(); ?>/assets/dist/img/user8-128x128.jpg" class="img-circle elevation-2" alt="User Image">
+
           </div>
           <div class="info">
             <a href="#" class="d-block">ADMIN</a>
@@ -154,11 +154,11 @@
   <!-- overlayScrollbars -->
   <script src="/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
   <!-- AdminLTE App -->
-  <script src="/assets/dist/js/adminlte.js"></script>
+  <!-- <script src="/assets/dist/js/adminlte.js"></script> -->
   <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-  <script src="/assets/dist/js/pages/dashboard.js"></script>
+  <!-- <script src="/assets/dist/js/pages/dashboard.js"></script> -->
   <!-- AdminLTE for demo purposes -->
-  <script src="/assets/dist/js/demo.js"></script>
+  <!-- <script src="/assets/dist/js/demo.js"></script> -->
 </body>
 
 </html>
